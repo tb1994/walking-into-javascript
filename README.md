@@ -4,3 +4,4 @@
 -2/12/2019---- replaced the alert script with an if else statment, changed page title, deleted image.
 -2/12/2019A---- changed if else statements for age topic, added a couple other else statements for more situations.
 -2/12/2019B------ deleted the else if statments , swapped the and condition for the or condition.
+-2/12/2019C----- changed the if else statment into a while loop statment.
