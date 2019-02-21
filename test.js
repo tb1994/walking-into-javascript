@@ -1,11 +1,9 @@
-var youLikeMeat = true;
-var myNum = 8;
+var age = 5;
 
-if(youLikeMeat){
-
-document.write("you like meat");
+while(age<10){
+    console.log("your age is less than 10!");
+    age++;
 
 }
-else{
-    document.write("you hate meat");
-}
+
+document.write("you are now over 10!");
