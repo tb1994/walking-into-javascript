@@ -5,3 +5,4 @@
 -2/12/2019A---- changed if else statements for age topic, added a couple other else statements for more situations.
 -2/12/2019B------ deleted the else if statments , swapped the and condition for the or condition.
 -2/12/2019C----- changed the if else statment into a while loop statment.
+-2/24/2019-------changed the while loop into a for loop, added dead links to index file for the for loop, modified the console.log in test.js as well.
