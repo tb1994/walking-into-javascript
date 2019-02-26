@@ -8,4 +8,5 @@
 -2/24/2019-------changed the while loop into a for loop, added dead links to index file for the for loop, modified the console.log in test.js as well.
 -2/24/2019A------ added break and continue into the for loops, added a new console.log into the test.js file.
 -2/25/2019-------- added an array to the test.js , replaced the link 6 with a link 0 in the index.html.
--2/25/2019--------- added a function in the test.js and added some console.logs for the function aswell.
+-2/25/2019A--------- added a function in the test.js and added some console.logs for the function aswell.
+-2/25/2019B----------- added global functions to test.js file. 
